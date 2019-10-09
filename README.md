@@ -1,5 +1,5 @@
 # CMPE-331-exercise
 
-## Authot
+## Author
 
 * **Berkay Diktaş**
